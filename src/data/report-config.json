@@ -1,0 +1,27 @@
+{
+  "name": "Report table",
+  "code": "report_code",
+  "columns": [
+    {
+      "dataField": "id",
+      "caption": "ID",
+      "dataType": "id",
+      "format": "#f7d7d7",
+      "alignment": "right"
+    },
+    {
+      "dataField": "name",
+      "caption": "Name",
+      "dataType": "name",
+      "format": "#b6b9fa",
+      "alignment": "center"
+    },
+    {
+      "dataField": "age",
+      "caption": "Age",
+      "dataType": "age",
+      "format": "#c7fcae",
+      "alignment": "left"
+    }
+  ]
+}
